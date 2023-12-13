@@ -1,5 +1,5 @@
 
-<img src="public/add2.png" alt="My Portfolio" />
+<img src="./public/update/add2.png" alt="My Portfolio" />
 
 # BESTCULLING Dev Portfolio
 
@@ -20,8 +20,4 @@
 is coming...
 
 ### Ref
-<<<<<<< HEAD
 - https://marwin1991.github.io/profile-technology-icons/
-=======
-- https://marwin1991.github.io/profile-technology-icons/
->>>>>>> f13708d99d6f1d72a148a8119319ed0d6235f420
