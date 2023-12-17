@@ -20,6 +20,12 @@ export const SkillData = [
     height: 65,
   },
   {
+    name: "Bootstrap",
+    Image: "/bootstrap.png",
+    width: 80,
+    height: 80,
+  },
+  {
     name: "Tailwind Css",
     Image: "/tailwind.png",
     width: 80,
@@ -32,33 +38,20 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Redux",
-    Image: "/redux.png",
-    width: 80,
-    height: 80,
-  },
-
-  {
     name: "TypeScript",
     Image: "/ts.png",
     width: 80,
     height: 80,
   },
   {
-    name: "Next js 13",
+    name: "Next js",
     Image: "/next.png",
     width: 80,
     height: 80,
   },
   {
-    name: "Framer Motion",
-    Image: "/framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    name: "Stripe Payment",
-    Image: "/stripe.webp",
+    name: "Git",
+    Image: "/git.png",
     width: 80,
     height: 80,
   },
@@ -74,20 +67,29 @@ export const SkillData = [
     width: 40,
     height: 40,
   },
+  {
+    name: "MySQL db",
+    Image: "/mysql.png",
+    width: 80,
+    height: 80,
+  },
 ];
 
 export const Socials = [
   {
-    name: "Discord",
-    src: "/instagram.svg",
+    name: "Github",
+    src: "/Github.png",
+    target: "https://github.com/bestculling",
   },
   {
-    name: "Facebook",
-    src: "/facebook.svg",
+    name: "Linkedin",
+    src: "/Linkedin.png",
+    target: "https://www.linkedin.com/in/akkrapol-kanpong-ab362214a/",
   },
   {
-    name: "Instagram",
-    src: "/discord.svg",
+    name: "Medium",
+    src: "/Medium.png",
+    target: "https://medium.com/@aukkrapolarm",
   },
 ];
 export const Projects = [
@@ -120,18 +122,18 @@ export const NavLinks = [
     link: "/",
   },
   {
-    name: "/my-skills",
+    name: "/skills",
     icon: RxPerson,
-    link: "/my-skills",
+    link: "/skills",
   },
   {
-    name: "/my-projects",
+    name: "/projects",
     icon: RxDashboard,
-    link: "/my-projects",
+    link: "/projects",
   },
   {
-    name: "/contact-me",
+    name: "/contact",
     icon: RxClipboard,
-    link: "/contact-me",
+    link: "/contact",
   },
 ];
